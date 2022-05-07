@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: پروفولیو\n"
+"POT-Creation-Date: 2021-08-31 16:06+0430\n"
+"PO-Revision-Date: 2021-08-31 16:25+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "متاسفانه صفحه پیدا نشده است."
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "چنین صفحه‌ای وجود ندارد."
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr "محبوب‌ترین دسته‌بندی‌ها"
+
+#. translators: %1$s: smiley
+#: 404.php:48
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "بخش دیدگاه بسته شده است."
+
+#: functions.php:53
+msgid "Primary menu"
+msgstr "منوی اصلی"
+
+#: functions.php:135
+msgid "Sidebar"
+msgstr "سایدبار"
+
+#: functions.php:137
+msgid "Add widgets here."
+msgstr "اینجا ابزارک استفاده کنید."
+
+#: functions.php:193
+msgid "Theme Options"
+msgstr "تنظیمات قالب"
+
+#: functions.php:194
+msgid "Theme Options Panel"
+msgstr "پنل تنظیمات قالب"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:70
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:83
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:100 template-parts/content-page.php:39
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options/about-profolio.php:8
+msgid "About Options"
+msgstr "تنظیمات درباره"
+
+#: inc/theme-options/about-profolio.php:21
+#: inc/theme-options/hero-profolio.php:21
+msgid "Upload Your Preferred Image"
+msgstr "تصویر مدنظر خود را بارگذاری کنید"
+
+#: inc/theme-options/about-profolio.php:32
+msgid "More About Me"
+msgstr "بیشتر درباره من"
+
+#: inc/theme-options/about-profolio.php:38
+#: inc/theme-options/hero-profolio.php:38
+msgid "Title:"
+msgstr "عنوان:"
+
+#: inc/theme-options/about-profolio.php:44
+msgid "10 Years Exprience"
+msgstr "10 سال تجربه"
+
+#: inc/theme-options/about-profolio.php:50
+msgid "Caption:"
+msgstr "عنوان"
+
+#: inc/theme-options/about-profolio.php:56
+msgid ""
+"Lorem Ipsum is a simple text for designer to user it as placeholder in such "
+"text Lorem Ipsum"
+msgstr ""
+"لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از "
+"طراحان گرافیک است."
+
+#: inc/theme-options/about-profolio.php:63
+#: inc/theme-options/hero-profolio.php:54
+msgid "Description:"
+msgstr "توضیحات"
+
+#: inc/theme-options/about-profolio.php:83
+msgid "Enable First Progress Bar"
+msgstr "فعال‌سازی نوار پیشرفت اول"
+
+#: inc/theme-options/about-profolio.php:84
+#: inc/theme-options/about-profolio.php:128
+#: inc/theme-options/about-profolio.php:172
+#: inc/theme-options/about-profolio.php:216
+msgid "Show/Hide this section."
+msgstr "نمایش/عدم‌نمایش این بخش."
+
+#: inc/theme-options/about-profolio.php:86
+#: inc/theme-options/about-profolio.php:130
+#: inc/theme-options/about-profolio.php:174
+#: inc/theme-options/about-profolio.php:218
+msgid "Yes"
+msgstr "بله"
+
+#: inc/theme-options/about-profolio.php:87
+#: inc/theme-options/about-profolio.php:131
+#: inc/theme-options/about-profolio.php:175
+#: inc/theme-options/about-profolio.php:219
+msgid "No"
+msgstr "خیر"
+
+#: inc/theme-options/about-profolio.php:92
+msgid "Web Design"
+msgstr "طراحی وب"
+
+#: inc/theme-options/about-profolio.php:98
+msgid "First Progress Bar:"
+msgstr "نوار پیشرفت اول:"
+
+#: inc/theme-options/about-profolio.php:99
+msgid "First Progress Bar Label"
+msgstr "برچسب نوار پیشرفت اول"
+
+#: inc/theme-options/about-profolio.php:105
+msgid "87"
+msgstr "87"
+
+#: inc/theme-options/about-profolio.php:111
+#: inc/theme-options/about-profolio.php:155
+#: inc/theme-options/about-profolio.php:199
+#: inc/theme-options/about-profolio.php:243
+msgid "Percent"
+msgstr "درصد"
+
+#: inc/theme-options/about-profolio.php:127
+msgid "Enable Second Progress Bar"
+msgstr "فعال‌سازی نوار پیشرفت دوم"
+
+#: inc/theme-options/about-profolio.php:136
+msgid "Web Developer"
+msgstr "توسعه دهنده وب"
+
+#: inc/theme-options/about-profolio.php:142
+msgid "Second Progress Bar:"
+msgstr "نوار پیشرفت دوم:"
+
+#: inc/theme-options/about-profolio.php:143
+msgid "Second Progress Bar Label"
+msgstr "برچسب نوار پیشرفت دوم"
+
+#: inc/theme-options/about-profolio.php:149
+#: inc/theme-options/about-profolio.php:237
+msgid "90"
+msgstr "90"
+
+#: inc/theme-options/about-profolio.php:171
+msgid "Enable Third Progress Bar"
+msgstr "فعال‌سازی نوار پیشرفت سوم"
+
+#: inc/theme-options/about-profolio.php:180
+msgid "Mobile Developer"
+msgstr "توسعه‌دهنده موبایل"
+
+#: inc/theme-options/about-profolio.php:186
+msgid "Third Progress Bar:"
+msgstr "نوار پیشرفت سوم:"
+
+#: inc/theme-options/about-profolio.php:187
+msgid "Third Progress Bar Label"
+msgstr "برچسب نوار پیشرفت سوم:"
+
+#: inc/theme-options/about-profolio.php:193
+msgid "99"
+msgstr "99"
+
+#: inc/theme-options/about-profolio.php:215
+msgid "Enable Fourth Progress Bar"
+msgstr "فعال‌سازی نوار پیشرفت چهارم"
+
+#: inc/theme-options/about-profolio.php:224
+msgid "Programmer"
+msgstr "برنامه‌نویس"
+
+#: inc/theme-options/about-profolio.php:230
+msgid "Fourth Progress Bar:"
+msgstr "نوار پیشرفت چهارم:"
+
+#: inc/theme-options/about-profolio.php:231
+msgid "Fourth Progress Bar Label"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:8
+msgid "Hero Options"
+msgstr "تنظیمات هیرو"
+
+#: inc/theme-options/hero-profolio.php:32
+msgid "Me"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:48
+msgid "Reza Masoumpour"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:64
+msgid "FrontEnd, Developer, Programmer"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:70
+msgid "Slider Text (seprate with ,):"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:80
+#: inc/theme-options/hero-profolio.php:109
+msgid "#"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:86
+msgid "First Button Settings:"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:87
+#: inc/theme-options/hero-profolio.php:116
+msgid "URL"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:93
+msgid "Contact Me"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:99
+#: inc/theme-options/hero-profolio.php:128
+msgid "Text"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:115
+msgid "Second Button Settings:"
+msgstr ""
+
+#: inc/theme-options/hero-profolio.php:122
+msgid "About Me"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:23
+msgid "Previous:"
+msgstr ""
+
+#: single.php:24
+msgid "Next:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "پروفولیو"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"قالب ایرانی پروفولیو مناسب نمایش نمونه کار، رزومه و قالبی شخصی با قابلیت "
+"شخصی سازی بالا."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "رضا معصوم پور"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wproket.ir"
+msgstr ""
